@@ -1,0 +1,25 @@
+.container{
+    font-family: 'Roboto';
+    margin-left:30px;
+    
+}
+.main-heading{
+    font-size: 35px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.events-input{
+    font-size: 18px;
+}
+.input{
+    height:20px;
+    width:200px;
+}
+.events-fired{
+    padding:10px;
+    font-size:15px;
+}
+.events-keycode{
+    font-size: 15px;
+    padding:10px;
+}
